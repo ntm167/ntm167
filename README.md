@@ -10,7 +10,7 @@
 
 Je suis un **développeur full-stack passionné** basé à **Neuchâtel** 🇨🇭, spécialisé dans la création d'applications web modernes et performantes. 
 
-> "I write code nobody understands — not even me in 2 weeks." 😄
+> "I write code nobody understands — not even me in 2 weeks." 
 
 Mais sérieusement, j'aime créer des solutions **innovantes** en mettant l'accent sur :
 - 💻 **Code de qualité** - lisible, maintenable, bien structuré
