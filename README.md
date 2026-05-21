@@ -1,20 +1,32 @@
-# 👋 Bienvenue sur mon profil!
+# 👋 Hey, je suis Nathan!
 
-<!-- Alternative: utiliser une image banner personnalisée -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&duration=4000&pause=1000&color=0066ff&center=true&vCenter=true&width=600&lines=Développeur+Full+Stack;Créateur+de+solutions+innovantes;Passionné+par+le+code+propre" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=0066ff&center=true&vCenter=true&width=700&lines=Développeur+Full+Stack;Créateur+de+solutions+modernes;Passionné+de+code+de+qualité" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🚀 À propos de moi
 
-Développeur passionné avec une expertise en **tout**. Je crée des applications web modernes et performantes, en mettant l'accent sur l'expérience utilisateur et la qualité du code.
+Je suis un **développeur full-stack passionné** basé à **Neuchâtel** 🇨🇭, spécialisé dans la création d'applications web modernes et performantes. 
 
-- 💻 Spécialisé dans: **JavaScript/TypeScript, React, Node.js** *(à adapter)*
-- 🎓 Formation: **Informaticien**
-- 🌍 Basé à: **Neuchatel**
-- ✨ Intéressé par: **Web3, AI, DevOps** *(à adapter)*
+> "I write code nobody understands — not even me in 2 weeks." 😄
+
+Mais sérieusement, j'aime créer des solutions **innovantes** en mettant l'accent sur :
+- 💻 **Code de qualité** - lisible, maintenable, bien structuré
+- 🎨 **Expérience utilisateur** - interfaces intuitives et attrayantes  
+- ⚡ **Performance** - applications rapides et optimisées
+- 🔧 **Technologie moderne** - toujours à jour avec les derniers outils
+
+---
+
+## 💼 Profil Professionnel
+
+- 🎓 **Formation** : Informaticien
+- 🌍 **Localisation** : Neuchâtel, Suisse
+- 💡 **Spécialités** : JavaScript/TypeScript, React, Node.js, développement full-stack
+- 🔄 **Actuellement** : Apprentissage continu et contribution à des projets intéressants
+- ✨ **Intéressé par** : Web3, AI, DevOps, architecture logicielle
 
 ---
 
@@ -38,42 +50,62 @@ Développeur passionné avec une expertise en **tout**. Je crée des application
 ## 📊 Statistiques GitHub
 
 <div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=VOTRE_USERNAME&theme=dark&hide_border=true&show_icons=true" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_USERNAME&theme=dark&hide_border=true&layout=compact" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=ntm167&theme=dark&hide_border=true&show_icons=true&bg_color=0d1117" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntm167&theme=dark&hide_border=true&layout=compact&bg_color=0d1117" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ntm167&theme=dark&hide_border=true&background=0d1117" />
 </div>
 
 ---
 
 ## 🌟 Projets Remarquables
 
-<div align="center">
+### 🏥 [Hopital-Pourtales](https://github.com/ntm167/Hopital-Pourtales)
+Un site web dédié à aider les codeurs du site de l'Hôpital Pourtalès de Neuchâtel. Plateforme collaborative et inspirante pour les développeurs locaux.
+- **Technos** : JavaScript, HTML, CSS
+- **Focus** : Communauté, collaboration, support local
 
-| Projet | Description | Technos |
-|--------|-------------|---------|
-| **[Nom Projet 1](https://github.com/username/project1)** | Description courte du projet et son impact | React, Node.js, PostgreSQL |
-| **[Nom Projet 2](https://github.com/username/project2)** | Description courte du projet et son impact | TypeScript, AWS, Docker |
-| **[Nom Projet 3](https://github.com/username/project3)** | Description courte du projet et son impact | Next.js, Stripe, MongoDB |
+### 🎮 [Morpion](https://github.com/ntm167/morpion)
+Une implémentation classique du jeu Tic-Tac-Toe avec une interface soignée. Parfait pour démontrer la logique de jeu et l'interaction utilisateur.
+- **Technos** : JavaScript, CSS
+- **Features** : Jeu en local, interface intuitive
 
-</div>
+### 🎯 [Quiz](https://github.com/ntm167/quiz)
+Application interactive de quiz écrite en TypeScript. Gestion d'état robuste et expérience utilisateur fluide.
+- **Technos** : TypeScript
+- **Focus** : Type-safety, architecture propre
+
+### 🎲 [Petit-Jeux](https://github.com/ntm167/petit-jeux)
+Collection de petits jeux interactifs pour s'amuser en codant.
+- **Technos** : JavaScript
+- **Description** : Expérimentation ludique
+
+### ❓ [Tu-pr-f-res](https://github.com/ntm167/Tu-pr-f-res...)
+Plateforme de questions/réponses collaborative. Parfait pour partager et apprendre.
+- **Focus** : Communauté, partage de connaissances
 
 ---
 
 ## 🎯 Objectifs Actuels
 
-- 🔄 Apprentissage continu en **[technologie émergente]**
+- 🔄 Approfondissement en **TypeScript et architecture robuste**
+- 🚀 Construction de **projets full-stack** plus ambitieux
 - 🤝 Contribution active à des projets **open-source**
-- 📚 Partage de connaissances via **articles techniques**
-- 🚀 Développement de **[votre projet personnel]**
+- 📚 Partage d'expertise via **tutoriels et articles techniques**
+- 🏗️ Exploration des **patterns et best practices**
+- 🌐 Développement en **React** avec **Next.js**
 
 ---
 
-## 📚 Articles Récents
+## 💡 Ce que je fais mieux
 
-<!-- Vous pouvez intégrer un flux RSS de votre blog si vous en avez un -->
-
-- 📝 [Titre de votre dernier article](lien)
-- 📝 [Titre de votre article précédent](lien)
-- 📝 [Titre d'un autre article](lien)
+✅ **Code propre** - Lisibilité et maintenabilité en priorité  
+✅ **Problem-solving** - Analyser les défis et trouver des solutions élégantes  
+✅ **Communication** - Expliquer des concepts complexes simplement  
+✅ **Collaboration** - Travailler efficacement en équipe  
+✅ **Apprentissage** - Toujours curieux, toujours en train d'apprendre
 
 ---
 
@@ -81,21 +113,40 @@ Développeur passionné avec une expertise en **tout**. Je crée des application
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/votre-profil)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/votre-handle)
-[![Website](https://img.shields.io/badge/Website-0066ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://votresite.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:votre-email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ntm167)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nathan.maulini167@gmail.com)
 
 </div>
 
 ---
 
-## 💡 Citation Favorite
+## 🎓 Philosophie de Développement
 
-> "Code is poetry written for humans, not machines."
+> **"La simplicité est la sophistication ultime."**
+
+Je crois que :
+- Le code doit être écrit pour les **humains**, pas pour les machines
+- La **qualité** prime sur la quantité
+- La **collaboration** est la clé du succès
+- Les **utilisateurs** sont au cœur de tout ce que nous créons
+- L'**apprentissage** est un voyage sans fin
+
+---
+
+## 📈 L'Aventure Continue...
+
+Merci de visiter mon profil ! Que vous soyez un développeur chevronné ou un passionné du code, je suis toujours enthousiaste pour :
+- Discuter de **nouvelles technologies**
+- Collaborer sur des **projets intéressants**
+- Partager des **expériences et apprentissages**
+- Apprendre des **autres développeurs**
+
+N'hésitez pas à me suivre et à explorer mes projets ! 🚀
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=VOTRE_USERNAME&color=blueviolet" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ntm167&color=0066ff" alt="Profile views" />
+  
+  **Fait avec ❤️ par Nathan | Neuchâtel, CH**
 </div>
