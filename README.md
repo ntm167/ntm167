@@ -47,19 +47,6 @@ Mais sérieusement, j'aime créer des solutions **innovantes** en mettant l'acce
 
 ---
 
-## 📊 Statistiques GitHub
-
-<div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=ntm167&theme=dark&hide_border=true&show_icons=true&bg_color=0d1117" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntm167&theme=dark&hide_border=true&layout=compact&bg_color=0d1117" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ntm167&theme=dark&hide_border=true&background=0d1117" />
-</div>
-
----
-
 ## 🌟 Projets Remarquables
 
 ### 🏥 [Hopital-Pourtales](https://github.com/ntm167/Hopital-Pourtales)
